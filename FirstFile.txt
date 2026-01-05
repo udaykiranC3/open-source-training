@@ -2,4 +2,5 @@ Name:-uday
 Age:-18
 gender:-Male
 cgpa:-8.3
+Fees status:-paid
 
